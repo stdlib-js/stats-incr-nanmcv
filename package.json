@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-nanmcv",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute a moving coefficient of variation (CV) incrementally, ignoring NaN values.",
   "license": "Apache-2.0",
   "author": {
